@@ -1,5 +1,5 @@
 {
-  "name": "companionui",
+  "name": "chat-ui-building-skill-pack",
   "version": "1.0.0",
   "description": "Self-developed React component library for AI companion interfaces",
   "main": "dist/index.js",
